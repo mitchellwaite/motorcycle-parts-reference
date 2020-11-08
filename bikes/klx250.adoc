@@ -2,7 +2,112 @@
 :toc:
 :toclevels: 5
 
-== Accessories
+== Mods
+
+=== Stock Intake/Exhaust
+
+Parts Needed
+
+|===
+|Brand |Part No. |Qty Needed | Link |Notes
+|Dynojet
+|2152
+|1
+|https://fortnine.ca/en/dynojet-jet-kit-2152
+|
+|===
+
+Install the Dynojet kit as per instructions
+
+=== Aftermarket header/exhaust
+
+==== Parts Needed
+
+===== Fuel Needle
+
+Choose one of the following kits, as needed for the fuel needle
+
+|===
+|Brand |Part No. |Qty Needed | Link |Notes
+
+|Dynojet
+|2152
+|1
+|https://fortnine.ca/en/dynojet-jet-kit-2152
+|OPTION 1: Needed for the DNO228 fuel needle & washers
+
+|Dynojet
+|2206
+|1
+|https://fortnine.ca/en/dynojet-jet-kit-2206
+|OPTION 2: Needed for the DNO352 fuel needle & washers
+|===
+
+When installing the fuel needle, set the clip at the top-most position and superglue the two DJ washers to the top.
+
+===== Main Jet
+
+Choose an appropriate main jet based on the exhaust system:
+
+- Aftermarket muffler only: DJ140 or Kawasaki #152
+- Aftermarket header+muffler: DJ144 or Kawasaki #158
+
+|===
+|Brand |Part No. |Qty Needed | Link |Notes
+
+|Kawasaki
+|92063-1331
+|1
+|
+|152 Main Jet
+
+|Kawasaki
+|92063-1367
+|1
+|
+|158 Main Jet
+
+|Dynojet
+|1102
+|1
+|https://fortnine.ca/en/dynojet-jet-kit-1102
+|Kit for CRF450R, contains an assortment of jets including DJ144 & DJ140 
+|===
+
+===== Pilot Jet 
+
+Choose an appropriate pilot jet based on elevation:
+
+- 0-900m elevation: Kawasaki #40
+- 900+m elevation: Kawasaki #38
+
+|===
+|Brand |Part No. |Qty Needed | Link |Notes
+
+|Kawasaki
+|92064-1108
+|1
+|
+|#40 pilot jet
+
+|Kawasaki
+|92064-1050
+|1
+|
+|#38 pilot jet
+|===
+
+
+==== Installation
+
+. Set the needle clip at the top most position, superglue the two dynojet washers to the top of the clip.
+. Remove carburetor lid and slide spring.
+. Install dynojet needle and reinstall slide spring. Ensure the slide hole is not blocked, as this will ensure proper slide action.
+. Replace carb lid. Ensure that the vacuum piston diaphragm is seated properly and is not damaged, otherwise the bike will not run correctly
+. Reinstall carburetor, remove airbox snorkel and lid
+. Done!
+
+
 
 == Engine
 
