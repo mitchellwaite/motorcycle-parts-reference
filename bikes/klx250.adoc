@@ -6,6 +6,53 @@
 
 == Engine
 
+=== Air Cleaner Assembly
+
+==== Air Filter
+
+|===
+|Brand |Part No. |Qty Needed | Link |Notes
+|Moose
+|M762-40-03
+|1
+|
+|
+
+|===
+
+=== Carburetor
+
+==== Vacuum Piston
+
+|===
+|Brand |Part No. |Qty Needed | Link |Notes
+|Kawasaki
+|16126-1339
+|1
+|
+|
+
+|Arctic Cat
+|5507-004
+|1
+|
+|Arctic cat ATVs use a CVK34 carb
+
+|===
+
+=== Gear Change Mechanism
+
+==== Shift Lever
+
+|===
+|Brand |Part No. |Qty Needed | Link |Notes
+|Kawasaki
+|13156-1480
+|1
+|
+|
+|===
+
 == Frame
 
 === Brake - Front
@@ -199,4 +246,24 @@ Piston Dimensions: 27mm dia., 25mm length
 |
 |Seals appeared to leak, YMMV
 
+|===
+
+=== Handlebar
+
+==== Throttle Tube
+
+|===
+|Brand |Part No. |Qty Needed | Link |Notes
+
+|Motion Pro
+|01-0094
+|1
+|https://fortnine.ca/en/motion-pro-replacement-throttle-tube-01-0094
+|Throttle tube only, must remove end cap for proper fit
+
+|Kawasaki
+|46019-0036
+|1
+|
+|Grip/Throttle tube is one assembly
 |===
