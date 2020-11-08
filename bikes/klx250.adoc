@@ -15,8 +15,20 @@
 |Moose
 |M762-40-03
 |1
-|
-|
+|https://fortnine.ca/en/moose-foam-air-filter-m762-40-03
+|Filter uses a neoprene ring to seal with the airbox
+
+|===
+
+===== Airbox Cover
+
+|===
+|Brand |Part No. |Qty Needed | Link |Notes
+|Twin Air
+|160076
+|1
+|https://fortnine.ca/en/twin-air-airbox-cover-160076
+|Included screw is not long enough, must use the OEM airbox screw
 
 |===
 
@@ -52,6 +64,16 @@
 |
 |
 |===
+
+[CAUTION]
+====
+Some shift levers (such as the MSR SF-6413) do not have the pinch bolt in the correct location to interface with the cutout on the shift shaft, and thus do not guard against inadvertent removal of the shift lever
+====
+
+[NOTE]
+====
+The shift shaft is made of steel, and will chew up the splines of aluminum shift levers.
+====
 
 == Frame
 
