@@ -75,6 +75,33 @@ Some shift levers (such as the MSR SF-6413) do not have the pinch bolt in the co
 The shift shaft is made of steel, and will chew up the splines of aluminum shift levers.
 ====
 
+=== Oil Pump / Filter
+
+==== Oil Filters
+
+|===
+|Brand |Part No. |Qty Needed | Link |Notes
+
+|Fram
+|CH6015
+|1
+|
+|Includes oil filter cover seal
+
+|HiFloFiltro
+|HF112
+|1
+|
+|Does not include cover seal
+
+|K&N
+|KN112
+|1
+|
+|Does not include cover seal
+
+|===
+
 == Frame
 
 === Brake - Front
