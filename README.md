@@ -3,8 +3,8 @@
 
 ## Motorcycles
 
-[KLX 250 (2009-2020)](blob/main/bikes/klx250.adoc)
+[KLX 250 (2009-2020)](bikes/klx250.adoc)
 
 ## Other Reference Charts
 
-[Brake Pistons](blob/main/refcharts/brakepistons.adoc)
+[Brake Pistons](refcharts/brakepistons.adoc)
