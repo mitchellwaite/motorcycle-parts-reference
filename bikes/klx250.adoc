@@ -241,10 +241,10 @@ The shift shaft is made of steel, and will chew up the splines of aluminum shift
 |
 
 |All Balls/Parts Canada
-|1702-0273
+|18-3016/1702-0273
 |1
 |https://fortnine.ca/en/moose-brake-caliper-rebuild-kit-1702-0273
-|Kit is for the KLX250SF, caliper piston seals do not match.
+|Kit is for the KLX250SF. Most components will work, except for the caliper seals. The appropriate seals will need to be purchased separately
 |===
 
 ==== Brake Caliper Pistons
