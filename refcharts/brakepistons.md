@@ -1,6 +1,6 @@
 # Brake Piston Reference Chart
 
-[< Home](index.md)
+[< Home](../index.md)
 
 |Diameter |Length |Parts Unltd |K&L |Kawasaki |Honda |Suzuki |Yamaha |
 |---|---|---|---|---|---|---|---|
