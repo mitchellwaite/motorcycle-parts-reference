@@ -1,4 +1,4 @@
-# motorcycle-parts-reference
+# Motorcycle Parts and Information
  Unofficial parts reference for various motorcycles and parts
 
 ## Motorcycles
