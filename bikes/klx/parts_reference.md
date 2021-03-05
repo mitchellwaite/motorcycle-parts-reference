@@ -31,6 +31,7 @@ _Compatibility is pure speculation at this point, since I have not had my hands 
 #### Intake Cams
 
 |Part No. |Cam Gear P/N |Models |
+|---|---|---|
 |12044-1327 |12046-0001 (Superseeds 12046-1141) |KLX250R: 1994 - 1996<br/>KLX250S: 2006 - 2016<br/>KLX250SF: 2009 - 2010<br/>KLX250: 2018 - 2020<br/>KLX300R: 1997 - 2007|
 |12044-0786 |12046-0576 |Z250SL: 2014 - 2018<br/>Ninja 250SL: 2015 - 2016<br/>KLX 300R: 2020 - 2021|
 |12044-1505 (Possibly superseeds 12044-0786) |12046-0576 |Z250SL: 2014 - 2018<br/>Ninja 250SL: 2015 - 2016|
@@ -39,6 +40,7 @@ _Compatibility is pure speculation at this point, since I have not had my hands 
 #### Exhaust Cams
 
 |Part No. |Cam Gear P/N |Models |
+|---|---|---|
 |12044-0175 (Superseeded by 12044-0746) |12046-0001 |KLX250S: 2009 - 2011|
 |12044-1364 (Superseeded by 12044-0746) |12046-0001 |KLX250R: 1994 - 1996|
 |12044-1365 (Superseeded by 12044-0746) |12046-0001 |KLX300R: 1997 - 2002<br/>KLX250S: 2006 - 2007<br/>KLX250SF: 2009 - 2010|
