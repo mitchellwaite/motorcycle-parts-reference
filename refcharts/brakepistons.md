@@ -1,11 +1,13 @@
-= Brake Piston Reference Chart
+# Brake Piston Reference Chart
 
 |Diameter |Length |Parts Unltd |K&L |Kawasaki |Honda |Suzuki |Yamaha |
 |---|---|---|---|---|---|---|---|
 |25.4 mm|31 mm|1702-0476|32-2305||45107-MN5-006|||
-|27 m|21 mm|1702-0482 (Kit of 4, 2 pistons of this size?)|32-2322||||4SV-W0057-00-00|
+|27 m|21 mm|1702-0482 (1)|32-2322||||4SV-W0057-00-00|
 
+### Notes
 
+1. Kit of 4, 2 pistons of this size?
 
 |27 mm
 |22.6 mm
