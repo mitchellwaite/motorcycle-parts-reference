@@ -15,19 +15,15 @@ The "new" cylider heads have been in use on the Ninja 250SL and Z250SL models so
 The updated cams and slightly increased compression allow the 250SL models to make a claimed 27.6 hp and 16.7 lb ft of torque, up from a claimed 22.8 hp and 15 lb ft for the KLX. The power curve is shifted toward top end power.
 
 #### 250SL:
-
 Max Power: 20.6 kW / 27.6 HP @ 9700 rpm
 Max Torque: 22.6 Nm / 16.7 ft lb @ 8500 rpm
-
 #### KLX 250:
-
 Max Power: 17 kW / 22.8 HP @ 8500 rpm
 Max Torque: 21 Nm / 15.5 ft lb @ 8500 rpm
 
 The updated heads have been introduced elsewhere in the KLX lineup starting with the 2020 KLX 300. The 2020 and 2021 KLX 300R models have the exact same cam P/Ns as the 250SL, also do not have compresion release, and also feature slightly increased compression compared to the previous KLX 300. Anecdotal evidence seems to indicate a nice performance boost over the KLX 250 and older KLX 300R models, but no official power figures are listed on kawasaki's website.
 
 ### KLX 300S & SM
-
 As of March 5, 2021 I've only seen one parts diagram for the 2021 on-road version of the KLX 300SM. It appears to use the "new" style head, but the cam and cam gear part numbers are different than the off road version. The cams have automatic compression release, and at least looking at the diagram, the cam gears look identical to the "old" style heads. It is not currently known if these cams/cam gears are at all different than those found in the "old" style heads, and whether or not these new P/N superseed the P/N found in the current on-road KLX 250.
 
 
