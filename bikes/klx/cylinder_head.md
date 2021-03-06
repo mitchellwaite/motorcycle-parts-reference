@@ -14,11 +14,11 @@ The "new" cylider heads have been in use on the Ninja 250SL and Z250SL models so
 
 The updated cams and slightly increased compression allow the 250SL models to make a claimed 27.6 hp and 16.7 lb ft of torque, up from a claimed 22.8 hp and 15 lb ft for the KLX. The power curve is shifted toward top end power.
 
-#### 250SL:
+### 250SL:
 - Max Power: 20.6 kW / 27.6 HP @ 9700 rpm
 - Max Torque: 22.6 Nm / 16.7 ft lb @ 8500 rpm
 
-#### KLX 250:
+### KLX 250:
 - Max Power: 17 kW / 22.8 HP @ 8500 rpm
 - Max Torque: 21 Nm / 15.5 ft lb @ 8500 rpm
 
