@@ -40,12 +40,12 @@
 
 Web Cam racing cams makes a few different grinds for the KLX 250 and 300. They also offer upgraded valves and valve springs.
 
-- KLX 250SF: [http://webcamshafts.com/pages_vehicles/motorcycle/kawasaki/2473.html]
-- KLX 250R: [http://webcamshafts.com/pages_vehicles/motorcycle/kawasaki/160.html]
-- KLX 300: [http://webcamshafts.com/pages_vehicles/motorcycle/kawasaki/705.html]
+- KLX 250SF: [http://webcamshafts.com/pages_vehicles/motorcycle/kawasaki/2473.html](http://webcamshafts.com/pages_vehicles/motorcycle/kawasaki/2473.html)
+- KLX 250R: [http://webcamshafts.com/pages_vehicles/motorcycle/kawasaki/160.html](http://webcamshafts.com/pages_vehicles/motorcycle/kawasaki/160.html)
+- KLX 300: [http://webcamshafts.com/pages_vehicles/motorcycle/kawasaki/705.html](http://webcamshafts.com/pages_vehicles/motorcycle/kawasaki/705.html)
 
 The following page compares the stock 250 cam, the webcam 101, and the webcam 293.
-- [https://web.archive.org/web/20100823234818/http://klx250s.suncup.net/Cams/index.htm]
+- [https://web.archive.org/web/20100823234818/http://klx250s.suncup.net/Cams/index.htm](https://web.archive.org/web/20100823234818/http://klx250s.suncup.net/Cams/index.htm)
 
 ### Carburetor
 
