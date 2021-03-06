@@ -21,6 +21,7 @@ Max Torque: 22.6 Nm / 16.7 ft lb @ 8500 rpm
 Max Power: 17 kW / 22.8 HP @ 8500 rpm
 Max Torque: 21 Nm / 15.5 ft lb @ 8500 rpm
 
+
 The updated heads have been introduced elsewhere in the KLX lineup starting with the 2020 KLX 300. The 2020 and 2021 KLX 300R models have the exact same cam P/Ns as the 250SL, also do not have compresion release, and also feature slightly increased compression compared to the previous KLX 300. Anecdotal evidence seems to indicate a nice performance boost over the KLX 250 and older KLX 300R models, but no official power figures are listed on kawasaki's website.
 
 ### KLX 300S & SM
