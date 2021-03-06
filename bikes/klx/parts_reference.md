@@ -58,7 +58,7 @@ The following page compares the stock 250 cam, the webcam 101, and the webcam 29
 
 ### Transmission
 
-#### Gear Change Mechanism
+#### Shift Lever
 
 |Brand |Part No. |Qty Needed | Link |Notes |
 |---|---|---|---|---|
