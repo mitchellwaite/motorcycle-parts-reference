@@ -2,8 +2,70 @@
 
 [< KLX 250](../klx250.md)
 
+This page lists big bore options for the KLX 250 and KLX 300. OEM parts, cloned OEM parts, and aftermarket big bore options are included.
+
+If the valve cover gasket is worn, it is useful to replace when installing the big bore kit to prevent oil leaks. P/N `11060-1318` applies to all KLX 250 models and 1997-2007 KLX 300 models
+
+
 ## 300cc (OEM parts)
-For 250 owners looking for an upgrade using Kawasaki parts, it is possible to use the cylinder, piston, and appropriate gaskets from the KLX 300. 
+For 250 owners looking for an upgrade using Kawasaki parts, it is possible to use the cylinder, piston, and appropriate gaskets from the KLX 300. THe chart below includes part numbers for the bits from the original (1997-2007) KLX 300R, updated part numbers for the original KLX 300, and part numbers for the 2021 KLX 300R and 300SM. These parts can also be used to refresh a KLX 300 if parts are worn.
+
+<table>
+   <thead>
+      <tr>
+         <th>Part</th>
+         <th>Quantity</th>
+         <th>300 O.G.</th>
+         <th>300 Updt.</th>
+         <th>2020 300R</th>
+         <th>2021 300S/SM</th>
+      </tr>
+   </thead>
+   <tbody>
+      <tr>
+         <td>Cylinder</td>
+         <td>1</td>
+         <td colspan="2">11005-1983</td>
+         <td>11005-0709</tbd>
+         <td>11005-0723</tbd>
+      </tr>
+      <tr>
+         <td>Piston</td>
+         <td>1</td>
+         <td align="center" colspan="2">13001-1463</td>
+         <td>13001-0811</td>
+         <td>13001-0830</td>
+      </tr>
+      <tr>
+         <td>Ring Set</td>
+         <td>1</td>
+         <td align="center" colspan="3">13008-1071</td>
+         <td>13008-0593</td>
+      </tr>
+      <tr>
+         <td>Piston Pin</td>
+         <td>1</td>
+         <td align="center" colspan="4">13002-1109</td>
+      </tr>
+      <tr>
+         <td>Piston Pin Snap Rings</td>
+         <td>2</td>
+         <td align="center" colspan="4">92033-1054</td>
+      </tr>
+      <tr>
+         <td>Base Gasket</td>
+         <td>1</td>
+         <td>11060-1740</td>
+         <td align="center" colspan="3">11061-1307</td>
+      </tr>
+      <tr>
+         <td>Head Gasket</td>
+         <td>1</td>
+         <td>11004-1314</td>
+         <td align="center" colspan="3">11004-0091</td>
+      </tr>
+   </tbody>
+</table>
 
 ## 300cc (Chinese parts)
 
