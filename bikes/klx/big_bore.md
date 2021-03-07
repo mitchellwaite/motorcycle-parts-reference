@@ -25,7 +25,7 @@ For 250 owners looking for an upgrade using Kawasaki parts, it is possible to us
       <tr>
          <td>Cylinder</td>
          <td>1</td>
-         <td colspan="2">11005-1983</td>
+         <td align="center" colspan="2">11005-1983</td>
          <td>11005-0709</tbd>
          <td>11005-0723</tbd>
       </tr>
