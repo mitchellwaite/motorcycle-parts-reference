@@ -71,7 +71,7 @@ For 250 owners looking for an upgrade using Kawasaki parts, it is possible to us
 
 The KLX engine has been cloned, and is used in a number of dirt bikes and ATVs made by chinese manufacturerrs. Because of this, sellers on aliexpress and eBay are able to offer big bore kits for significantly cheaper than what OEM kawasaki parts cost. The 299cc __AHL__ branded kits that are offered seem to work well, and appear to be compatible with the OEM cam chain tensioner. These cylinders have the letters "AHL" and "299" in the casting itself.
 
-[https://www.ebay.ca/itm/78mm-Cylinder-Piston-Rings-Gasket-Kit-For-Kawasaki-KLX250-KLX250R-KLX250S-KLX300/153939856936][https://www.ebay.ca/itm/78mm-Cylinder-Piston-Rings-Gasket-Kit-For-Kawasaki-KLX250-KLX250R-KLX250S-KLX300/153939856936]
+[https://www.ebay.ca/itm/78mm-Cylinder-Piston-Rings-Gasket-Kit-For-Kawasaki-KLX250-KLX250R-KLX250S-KLX300/153939856936](https://www.ebay.ca/itm/78mm-Cylinder-Piston-Rings-Gasket-Kit-For-Kawasaki-KLX250-KLX250R-KLX250S-KLX300/153939856936)
 [https://www.aliexpress.com/item/32455634777.html](https://www.aliexpress.com/item/32455634777.html)
 
 292cc kits also exist, but it is reported that there are differences in the cylinder that make it incompatible with the OEM cam chain tensioner and head gasket.
