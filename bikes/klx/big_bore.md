@@ -11,62 +11,38 @@ For tuning, reference the appropriate tuning section from the previous page.
 ## 300cc (OEM parts)
 For 250 owners looking for an upgrade using Kawasaki parts, it is possible to use the cylinder, piston, and appropriate gaskets from the KLX 300. The chart below includes part numbers for the bits from the original (1997-2007) KLX 300R, updated part numbers for the original KLX 300, and part numbers for the 2021 KLX 300R and 300SM. These parts can also be used to refresh a KLX 300 if parts are worn.
 
-<table>
-   <thead>
-      <tr>
-         <th>Part</th>
-         <th>Quantity</th>
-         <th>300 O.G.</th>
-         <th>300 Updt.</th>
-         <th>2020/2021 300R</th>
-         <th>2021 300S/SM</th>
-      </tr>
-   </thead>
-   <tbody>
-      <tr>
-         <td>Cylinder</td>
-         <td>1</td>
-         <td align="center" colspan="2">11005-1983</td>
-         <td>11005-0709</tbd>
-         <td>11005-0723</tbd>
-      </tr>
-      <tr>
-         <td>Piston</td>
-         <td>1</td>
-         <td align="center" colspan="2">13001-1463</td>
-         <td>13001-0811</td>
-         <td>13001-0830</td>
-      </tr>
-      <tr>
-         <td>Ring Set</td>
-         <td>1</td>
-         <td align="center" colspan="3">13008-1071</td>
-         <td>13008-0593</td>
-      </tr>
-      <tr>
-         <td>Piston Pin</td>
-         <td>1</td>
-         <td align="center" colspan="4">13002-1109</td>
-      </tr>
-      <tr>
-         <td>Piston Pin Snap Rings</td>
-         <td>2</td>
-         <td align="center" colspan="4">92033-1054</td>
-      </tr>
-      <tr>
-         <td>Base Gasket</td>
-         <td>1</td>
-         <td>11060-1740</td>
-         <td align="center" colspan="3">11061-1307</td>
-      </tr>
-      <tr>
-         <td>Head Gasket</td>
-         <td>1</td>
-         <td>11004-1314</td>
-         <td align="center" colspan="3">11004-0091</td>
-      </tr>
-   </tbody>
-</table>
+|Part |Qty |300R (2007)|300R (2021)|300S/SM (2021)|
+|---|---|---|---|---|
+|Cylinder|1|11005-1983|11005-0709|11005-0723|
+|Piston|1|13001-1463|13001-0811|13001-0830|
+|Ring Set|1|13008-1071|13008-1071|13008-0593|
+|Piston Pin|1|13002-1109|13002-1109|13002-1109|
+|Snap Rings|2|92033-1054|92033-1054|92033-1054|
+|Base Gasket|1|11061-1307|11061-1307|11061-1307|
+|Head Gasket|1|11004-0091|11004-0091|11004-0091|
+
+
+
+## Bill Blue 351cc
+
+B&B Cycle Restoration (a.k.a. Bill Blue) makes a 351cc big bore kit that uses a custom sleeved cylinder.
+
+http://bandbcyclerestoration.com/Home_Page.html
+
+Based on the posts on the KLX 250 forums, this is likely one of the more popular aftermarket options.
+
+https://www.kawasakiforums.com/forum/klx-250s-71/bb351-lidless-cvk34-2009-klx250s-44765/
+https://www.kawasakiforums.com/forum/klx-250s-71/bb351-bill-blue-update-circa-2020-a-46999/
+https://www.kawasakiforums.com/forum/klx-250s-71/boilerplate-setup-cvk-351cc-45741/
+
+## Keng Engine 381cc/351cc/330cc
+
+Keng Engine out of Thailand lists a number of kits from 300cc all the way to 351cc in their FB shop. However, there are posts indicating that 381cc kits are also available. All kits come with the cylinder, piston, and needed gaskets but also appear to include a set of cams, clutch springs, and for those that need it a bigger injector and a custom ECU or an EJK.
+
+The 300cc kit uses all OE parts except for a pre-programmed aftermarket ECU.
+
+https://www.facebook.com/KengEngine
+
 
 ## 300cc (Chinese parts)
 
@@ -80,18 +56,6 @@ The KLX engine has been cloned, and is used in a number of dirt bikes and ATVs m
 Reference kawasakiforums.com for more details:
 
 [https://www.kawasakiforums.com/forum/search.php?do=showgcs&query=ahl%20big%20bore](https://www.kawasakiforums.com/forum/search.php?do=showgcs&query=ahl%20big%20bore)
-
-## 351cc
-
-B&B Cycle Restoration (a.k.a. Bill Blue) makes a 351cc big bore kit that uses a custom sleeved cylinder.
-
-http://bandbcyclerestoration.com/Home_Page.html
-
-Based on the posts on the KLX 250 forums, this is likely one of the more popular aftermarket options.
-
-https://www.kawasakiforums.com/forum/klx-250s-71/bb351-lidless-cvk34-2009-klx250s-44765/
-https://www.kawasakiforums.com/forum/klx-250s-71/bb351-bill-blue-update-circa-2020-a-46999/
-https://www.kawasakiforums.com/forum/klx-250s-71/boilerplate-setup-cvk-351cc-45741/
 
 ## 331cc
 
