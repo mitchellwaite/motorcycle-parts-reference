@@ -8,3 +8,4 @@ Parts reference for various motorcycles and parts
 ## Other Reference Charts
 
 [Brake Pistons](refcharts/brakepistons.md)
+[Jet Size Comparison (Keihin v. Dynojet v. Mikuni)](https://www.jetsrus.com/FAQs/FAQ_mikuni_vs_dynojet_vs_keihin_sizes.htm)
