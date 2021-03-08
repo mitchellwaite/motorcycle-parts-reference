@@ -1,4 +1,4 @@
-# Big Bore
+# Big Bore Kits and Parts
 
 [< KLX 250](../klx250.md)
 
@@ -6,9 +6,10 @@ This page lists big bore options for the KLX 250 and KLX 300. OEM parts, cloned 
 
 If the valve cover gasket is worn, it is useful to replace when installing the big bore kit to prevent oil leaks. P/N `11060-1318` applies to all KLX 250 models and 1997-2007 KLX 300 models
 
+For tuning, reference the appropriate tuning section from the previous page.
 
 ## 300cc (OEM parts)
-For 250 owners looking for an upgrade using Kawasaki parts, it is possible to use the cylinder, piston, and appropriate gaskets from the KLX 300. THe chart below includes part numbers for the bits from the original (1997-2007) KLX 300R, updated part numbers for the original KLX 300, and part numbers for the 2021 KLX 300R and 300SM. These parts can also be used to refresh a KLX 300 if parts are worn.
+For 250 owners looking for an upgrade using Kawasaki parts, it is possible to use the cylinder, piston, and appropriate gaskets from the KLX 300. The chart below includes part numbers for the bits from the original (1997-2007) KLX 300R, updated part numbers for the original KLX 300, and part numbers for the 2021 KLX 300R and 300SM. These parts can also be used to refresh a KLX 300 if parts are worn.
 
 <table>
    <thead>
@@ -17,7 +18,7 @@ For 250 owners looking for an upgrade using Kawasaki parts, it is possible to us
          <th>Quantity</th>
          <th>300 O.G.</th>
          <th>300 Updt.</th>
-         <th>2020 300R</th>
+         <th>2020/2021 300R</th>
          <th>2021 300S/SM</th>
       </tr>
    </thead>
@@ -82,11 +83,19 @@ Reference kawasakiforums.com for more details:
 
 ## 351cc
 
+B&B Cycle Restoration (a.k.a. Bill Blue) makes a 351cc big bore kit that uses a custom sleeved cylinder.
 
+http://bandbcyclerestoration.com/Home_Page.html
+
+Based on the posts on the KLX 250 forums, this is likely one of the more popular aftermarket options.
+
+https://www.kawasakiforums.com/forum/klx-250s-71/bb351-lidless-cvk34-2009-klx250s-44765/
+https://www.kawasakiforums.com/forum/klx-250s-71/bb351-bill-blue-update-circa-2020-a-46999/
+https://www.kawasakiforums.com/forum/klx-250s-71/boilerplate-setup-cvk-351cc-45741/
 
 ## 331cc
 
-Kustom-kraft 
+Kustom-kraft makes a 331 cc big bore kit, but it uses a bored and plated cyliinder instead of one with an iron sleeve.
 
 [https://www.kustom-kraft.com/product/klx-250s-big-bore-kit](https://www.kustom-kraft.com/product/klx-250s-big-bore-kit)
 
