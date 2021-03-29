@@ -12,7 +12,7 @@ I've had great experiences with the Krieger cam chain tensioner, and it has my r
 
 ## Krieger Cam Chain Tensioner Links
 
-[Krieger CCT Home Page](http://www.clems-garage.com/CCT/)
-[CCT History](http://www.clems-garage.com/CCT/A_Bit_of_History.htm)
-[How To Order](http://www.clems-garage.com/CCT/how_to_order.htm)
-[Installation Directions](http://www.clems-garage.com/CCT/klx_250%20directions.htm)
+- [Krieger CCT Home Page](http://www.clems-garage.com/CCT/)
+- [CCT History](http://www.clems-garage.com/CCT/A_Bit_of_History.htm)
+- [How To Order](http://www.clems-garage.com/CCT/how_to_order.htm)
+- [Installation Directions](http://www.clems-garage.com/CCT/klx_250%20directions.htm)
