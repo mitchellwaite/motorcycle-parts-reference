@@ -10,8 +10,8 @@ If your stock friction plates are in good shape, a simple upgrade would be to sw
 
 - Barnett P/N: `501-40-06017`
 
-[KLX 351 Slipping Clutch Solution (YouTube)](https://www.youtube.com/watch?v=ABpuaBL-wek)
-[Kawasakiforums thread on this topic](https://www.kawasakiforums.com/forum/klx-250s-71/clutch-slipping-bb-351-kit-47292/)
+- [KLX 351 Slipping Clutch Solution (YouTube)](https://www.youtube.com/watch?v=ABpuaBL-wek)
+- [Kawasakiforums thread on this topic](https://www.kawasakiforums.com/forum/klx-250s-71/clutch-slipping-bb-351-kit-47292/)
 
 
 ## EBC DirtRacer clutch kit w/ Barnett KLX 300 spring kit
@@ -34,6 +34,6 @@ Parts Needed:
 
 Reference the kawasakiforums post or Planet KLX for more info:
 
-[taxonomy Clutch Notes](https://www.kawasakiforums.com/forum/klx-250s-71/clutch-notes-41905/)
-[jeffward's post on kawasakiforums](https://www.kawasakiforums.com/forum/klx-250s-71/replacement-clutch-ebc-vs-barnett-37222/page2/#post462789)
-[Planet KLX FAQ page](https://web.archive.org/web/20171221061909if_/http://planetklx.org/faqs.html)
+- [taxonomy Clutch Notes](https://www.kawasakiforums.com/forum/klx-250s-71/clutch-notes-41905/)
+- [jeffward's post on kawasakiforums](https://www.kawasakiforums.com/forum/klx-250s-71/replacement-clutch-ebc-vs-barnett-37222/page2/#post462789)
+- [Planet KLX FAQ page](https://web.archive.org/web/20171221061909if_/http://planetklx.org/faqs.html)
