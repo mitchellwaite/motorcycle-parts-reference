@@ -33,6 +33,8 @@ Reference [Cylinder Head & Cam Differences](cylinder_head.md) for my notes on th
 |Webcam 101|0.350/0.350|250/250|229/229|106.0|104.0|105.0|40|19|41 BBDC|8 ATDC|10 BTDC|39 ABDC|
 |Webcam 293|0.360/0.360|248/248|226/226|106.0|104.0|105.0|38|16|39 BBDC|7 ATDC|9 BTDC|37 ABDC|
 |Webcam 55 |0.351/0.351|266/266|241/241|106.5|104.5|105.5|55|30|47 BBDC|14 ATDC|16 BTDC|45 ABDC|
+|Yoshi ST-1|0.362/0.346|       |238/234|
 
 I've borrowed most of the above table from the following page, archived by the wayback machine:
 - [https://web.archive.org/web/20100823234818/http://klx250s.suncup.net/Cams/index.htm](https://web.archive.org/web/20100823234818/http://klx250s.suncup.net/Cams/index.htm)
+- [https://shop.yoshimura-jp.com/en/product/syousai.php?id=898](https://shop.yoshimura-jp.com/en/product/syousai.php?id=898)
