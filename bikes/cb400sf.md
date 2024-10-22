@@ -30,7 +30,7 @@ https://en.impex-jp.com/catalogs/moto/honda/11mcexj9.html
 | Countershaft Bolt    | Honda: 90037-422-003         | 1990 CB400F CB-1     |                                          |
 | Countershaft Washer  | Honda: 90459-438-000         | 1990 CB400F CB-1     |                                          |
 | Front Sprocket (15T) | JT: JTF297.15                | 1990 CB400F CB-1     |                                          |
-| Rear Sprocket (45T)  | JT: JTF1321.45               | 1990 CB400F CB-1     |                                          |
+| Rear Sprocket (45T)  | JT: JTR1332.45               | 1990 CB400F CB-1     |                                          |
 | Drive Chain (108L)   | DID525VO, RK 525 MAX-O, etc. |                      | Any 525 o-ring chain or better will work |
 
 
